@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="xposed_description">为Xperia解除UpdateCenter限制</string>
+  <string name="config_error">配置初始化失败</string>
+  <string name="config_not_supported">模块未激活或正使用旧版 LSPosed，请激活模块或更新 LSPosed 后再试。</string>
+  <string name="brand_error">不支持的设备</string>
+  <string name="brand_not_supported">模块仅支持Sony Xperia</string>
+  <string name="custom">自定义</string>
+  <string name="custom_summary">优先使用自定义Product Code</string>
+</resources>

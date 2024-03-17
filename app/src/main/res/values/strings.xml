@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name" translatable="false">XperiaUpdateCenter</string>
+  <string name="xposed_description">Unlocking UpdateCenter for Xperia</string>
+  <string name="product_code" translatable="false">Product Code</string>
+  <string name="config_error">Configuration initialization failed</string>
+  <string name="config_not_supported">It seems that you are using an out dated version of LSPosed or LSPosed is not activated, please update LSPosed or try again after activated.</string>
+  <string name="brand_error">Unsupported devices</string>
+  <string name="brand_not_supported">Module only supports Sony Xperia</string>
+  <string name="custom">Custom</string>
+  <string name="custom_code" translatable="false">Custom Code</string>
+  <string name="custom_summary">Give priority to using custom product code</string>
+</resources>

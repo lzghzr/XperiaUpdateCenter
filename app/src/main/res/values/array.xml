@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="A101SO">
+    <item>43040229 JP</item>
+    <item>43040231 JP</item>
+    <item>43040232 JP</item>
+  </string-array>
+  <string-array name="A102SO">
+    <item>43040314 JP</item>
+    <item>43040315 JP</item>
+    <item>43040316 JP</item>
+    <item>43040317 JP</item>
+    <item>43040320 JP</item>
+  </string-array>
+  <string-array name="A103SO">
+    <item>43040557 JP</item>
+    <item>43040559 JP</item>
+    <item>43040560 JP</item>
+    <item>43040561 JP</item>
+    <item>43040563 JP</item>
+    <item>43040564 JP</item>
+  </string-array>
+  <string-array name="A201SO">
+    <item>43040611 JP</item>
+    <item>43040614 JP</item>
+    <item>43040976 JP</item>
+  </string-array>
+  <string-array name="A202SO">
+    <item>43040717 JP</item>
+    <item>43040718 JP</item>
+    <item>43040720 JP</item>
+    <item>43040721 JP</item>
+    <item>43040722 JP</item>
+    <item>43040724 JP</item>
+  </string-array>
+  <string-array name="A203SO">
+    <item>43040813 JP</item>
+    <item>43040815 JP</item>
+    <item>43040816 JP</item>
+    <item>43040817 JP</item>
+    <item>43040819 JP</item>
+    <item>43040820 JP</item>
+  </string-array>
+  <string-array name="A204SO">
+    <item>43040906 JP</item>
+    <item>43040907 JP</item>
+    <item>43040910 JP</item>
+    <item>43040911 JP</item>
+  </string-array>
+  <string-array name="A301SO">
+    <item>43041028 JP</item>
+    <item>43041029 JP</item>
+    <item>43041299 JP</item>
+    <item>43041300 JP</item>
+    <item>43041301 JP</item>
+  </string-array>
+  <string-array name="A302SO">
+    <item>43041118 JP</item>
+    <item>43041119 JP</item>
+    <item>43041120 JP</item>
+    <item>43041121 JP</item>
+    <item>43041124 JP</item>
+  </string-array>
+  <string-array name="SO_41B">
+    <item>43040375 JP</item>
+    <item>43040376 JP</item>
+    <item>43040377 JP</item>
+    <item>43040378 JP</item>
+    <item>43040379 JP</item>
+    <item>43040380 JP</item>
+  </string-array>
+  <string-array name="SO_51B">
+    <item>43040217 JP</item>
+    <item>43040218 JP</item>
+    <item>43040219 JP</item>
+    <item>43040220 JP</item>
+    <item>43040221 JP</item>
+    <item>43040222 JP</item>
+  </string-array>
+  <string-array name="SO_51C">
+    <item>43040596 JP</item>
+    <item>43040597 JP</item>
+    <item>43040598 JP</item>
+    <item>43040599 JP</item>
+    <item>43040600 JP</item>
+    <item>43040601 JP</item>
+  </string-array>
+  <string-array name="SO_51D">
+    <item>43041013 JP</item>
+    <item>43041014 JP</item>
+    <item>43041017 JP</item>
+    <item>43041018 JP</item>
+  </string-array>
+  <string-array name="SO_52B">
+    <item>43040298 JP</item>
+    <item>43040299 JP</item>
+    <item>43040300 JP</item>
+    <item>43040301 JP</item>
+    <item>43040302 JP</item>
+    <item>43040303 JP</item>
+    <item>43040304 JP</item>
+    <item>43040305 JP</item>
+    <item>43040441 JP</item>
+    <item>43040442 JP</item>
+  </string-array>
+  <string-array name="SO_52C">
+    <item>43040695 JP</item>
+    <item>43040696 JP</item>
+    <item>43040697 JP</item>
+    <item>43040698 JP</item>
+    <item>43040700 JP</item>
+    <item>43040701 JP</item>
+    <item>43040702 JP</item>
+    <item>43040703 JP</item>
+  </string-array>
+  <string-array name="SO_52D">
+    <item>43041102 JP</item>
+    <item>43041103 JP</item>
+    <item>43041104 JP</item>
+    <item>43041105 JP</item>
+    <item>43041106 JP</item>
+    <item>43041107 JP</item>
+    <item>43041108 JP</item>
+    <item>43041109 JP</item>
+
+    <item>43041320 JP_MLK</item>
+  </string-array>
+  <string-array name="SO_53B">
+    <item>43040541 JP</item>
+    <item>43040542 JP</item>
+    <item>43040543 JP</item>
+    <item>43040544 JP</item>
+    <item>43040545 JP</item>
+    <item>43040546 JP</item>
+    <item>43040547 JP</item>
+    <item>43040548 JP</item>
+  </string-array>
+  <string-array name="SO_53C">
+    <item>43040789 JP</item>
+    <item>43040790 JP</item>
+    <item>43040791 JP</item>
+    <item>43040793 JP</item>
+    <item>43040794 JP</item>
+    <item>43040795 JP</item>
+  </string-array>
+  <string-array name="SO_53D">
+    <item>43041231 JP</item>
+    <item>43041232 JP</item>
+    <item>43041233 JP</item>
+    <item>43041235 JP</item>
+    <item>43041236 JP</item>
+    <item>43041237 JP</item>
+  </string-array>
+  <string-array name="SO_54C">
+    <item>43040890 JP</item>
+    <item>43040891 JP</item>
+    <item>43040893 JP</item>
+    <item>43040894 JP</item>
+    <item>43040895 JP</item>
+    <item>43040897 JP</item>
+    <item>43041005 JP</item>
+    <item>43041006 JP</item>
+  </string-array>
+  <string-array name="SOG03">
+    <item>43040223 JP</item>
+    <item>43040225 JP</item>
+    <item>43040226 JP</item>
+  </string-array>
+  <string-array name="SOG04">
+    <item>43040306 UQ</item>
+    <item>43040307 UQ</item>
+    <item>43040308 UQ</item>
+    <item>43040309 UQ</item>
+    <item>43040310 UQ</item>
+    <item>43040311 UQ</item>
+    <item>43040312 UQ</item>
+    <item>43040313 UQ</item>
+    <item>43040514 UQ</item>
+    <item>43040515 UQ</item>
+    <item>43040516 UQ</item>
+    <item>43040517 UQ</item>
+    <item>43040518 UQ</item>
+    <item>43040519 UQ</item>
+    <item>43040520 UQ</item>
+    <item>43040521 UQ</item>
+  </string-array>
+  <string-array name="SOG05">
+    <item>43040549 JP</item>
+    <item>43040550 JP</item>
+    <item>43040551 JP</item>
+    <item>43040552 JP</item>
+    <item>43040553 JP</item>
+    <item>43040554 JP</item>
+    <item>43040555 JP</item>
+    <item>43040556 JP</item>
+  </string-array>
+  <string-array name="SOG06">
+    <item>43040602 JP</item>
+    <item>43040603 JP</item>
+    <item>43040605 JP</item>
+    <item>43040606 JP</item>
+  </string-array>
+  <string-array name="SOG07">
+    <item>43040705 JP</item>
+    <item>43040706 JP</item>
+    <item>43040707 JP</item>
+    <item>43040708 JP</item>
+    <item>43040709 JP</item>
+    <item>43040710 JP</item>
+    <item>43040711 JP</item>
+    <item>43040712 JP</item>
+  </string-array>
+  <string-array name="SOG08">
+    <item>43040798 JP</item>
+    <item>43040800 JP</item>
+    <item>43040802 JP</item>
+    <item>43040804 JP</item>
+  </string-array>
+  <string-array name="SOG09">
+    <item>43040898 JP</item>
+    <item>43040899 JP</item>
+    <item>43040901 JP</item>
+    <item>43040902 JP</item>
+    <item>43040903 JP</item>
+    <item>43040905 JP</item>
+  </string-array>
+  <string-array name="SOG10">
+    <item>43041022 JP</item>
+    <item>43041023 JP</item>
+    <item>43041025 JP</item>
+    <item>43041026 JP</item>
+  </string-array>
+  <string-array name="SOG11">
+    <item>43041110 JP</item>
+    <item>43041111 JP</item>
+    <item>43041112 JP</item>
+    <item>43041114 JP</item>
+    <item>43041115 JP</item>
+    <item>43041116 JP</item>
+  </string-array>
+  <string-array name="SOG12">
+    <item>43041239 JP</item>
+    <item>43041240 JP</item>
+    <item>43041241 JP</item>
+    <item>43041242 JP</item>
+    <item>43041243 JP</item>
+    <item>43041244 JP</item>
+  </string-array>
+  <string-array name="XQ_BC42">
+    <item>43040238 JP</item>
+    <item>43040239 JP</item>
+    <item>43040240 JP</item>
+    <item>43040571 JP</item>
+  </string-array>
+  <string-array name="XQ_BC52">
+    <item>43040241 UK</item>
+    <item>43040243 UK</item>
+    <item>43040244 EEA</item>
+    <item>43040245 EEA</item>
+    <item>43040247 EEA</item>
+    <item>43040248 EEA</item>
+    <item>43040249 EEA</item>
+    <item>43040250 Orange_MCV</item>
+    <item>43040253 O2_UK</item>
+    <item>43040256 EE_UK</item>
+  </string-array>
+  <string-array name="XQ_BC62">
+    <item>43040274 US</item>
+    <item>43040276 US</item>
+  </string-array>
+  <string-array name="XQ_BC72">
+    <item>43040271 RU</item>
+    <item>43040277 CN</item>
+    <item>43040278 CN</item>
+    <item>43040279 CN</item>
+    <item>43040280 CN</item>
+    <item>43040282 CN</item>
+    <item>43040283 HK</item>
+    <item>43040284 HK</item>
+    <item>43040285 HK</item>
+    <item>43040286 HK</item>
+    <item>43040287 HK</item>
+    <item>43040288 HK</item>
+    <item>43040289 TW</item>
+    <item>43040290 TW</item>
+    <item>43040291 TW</item>
+    <item>43040292 TW</item>
+    <item>43040294 TW</item>
+    <item>43040443 SEA</item>
+    <item>43040445 SEA</item>
+    <item>43040572 CN</item>
+    <item>43040573 HK</item>
+    <item>43040574 TW</item>
+  </string-array>
+  <string-array name="XQ_BE42">
+    <item>43040526 JP</item>
+  </string-array>
+  <string-array name="XQ_BE52">
+    <item>43040527 UK</item>
+    <item>43040528 EEA</item>
+    <item>43040529 EEA</item>
+    <item>43040531 O2_UK</item>
+  </string-array>
+  <string-array name="XQ_BE62">
+    <item>43040536 _US</item>
+  </string-array>
+  <string-array name="XQ_BE72">
+    <item>43040535 RU</item>
+    <item>43040537 CN</item>
+    <item>43040538 HK</item>
+    <item>43040539 TW</item>
+    <item>43040540 SEA</item>
+  </string-array>
+  <string-array name="XQ_BQ42">
+    <item>43040565 JP</item>
+    <item>43040566 JP</item>
+    <item>43040567 JP</item>
+  </string-array>
+  <string-array name="XQ_BQ52">
+    <item>43040381 UK</item>
+    <item>43040382 UK</item>
+    <item>43040384 EEA</item>
+    <item>43040385 EEA</item>
+    <item>43040386 EEA</item>
+    <item>43040387 EEA</item>
+    <item>43040388 EEA</item>
+    <item>43040390 Orange_MCV</item>
+    <item>43040393 O2_UK</item>
+    <item>43040396 EE_UK</item>
+    <item>43040399 ALTICE_FR_PT</item>
+    <item>43040400 ALTICE_FR_PT</item>
+    <item>43040402 Vodafone</item>
+    <item>43040405 VF_UK</item>
+    <item>43040569 UK</item>
+    <item>43040570 EEA</item>
+  </string-array>
+  <string-array name="XQ_BQ62">
+    <item>43040414 US</item>
+    <item>43040415 US</item>
+  </string-array>
+  <string-array name="XQ_BQ72">
+    <item>43040411 RU</item>
+    <item>43040412 RU</item>
+    <item>43040417 CN</item>
+    <item>43040418 CN</item>
+    <item>43040419 CN</item>
+    <item>43040420 HK</item>
+    <item>43040421 HK</item>
+    <item>43040422 HK</item>
+    <item>43040423 TW</item>
+    <item>43040424 TW</item>
+    <item>43040425 TW</item>
+    <item>43040427 SEA</item>
+  </string-array>
+  <string-array name="XQ_BT44">
+    <item>43040322 RAKUTEN_JP</item>
+    <item>43040323 RAKUTEN_JP</item>
+    <item>43040324 RAKUTEN_JP</item>
+    <item>43040325 RAKUTEN_JP</item>
+    <item>43040326 MVNO_JP</item>
+    <item>43040327 MVNO_JP</item>
+    <item>43040328 MVNO_JP</item>
+    <item>43040329 MVNO_JP</item>
+  </string-array>
+  <string-array name="XQ_BT52">
+    <item>43040213 EEA</item>
+    <item>43040330 UK</item>
+    <item>43040331 UK</item>
+    <item>43040332 UK</item>
+    <item>43040334 EEA</item>
+    <item>43040335 EEA</item>
+    <item>43040336 EEA</item>
+    <item>43040338 EEA</item>
+    <item>43040339 EEA</item>
+    <item>43040340 EEA</item>
+    <item>43040341 ORANGE_MCV</item>
+    <item>43040344 O2_UK</item>
+    <item>43040347 EEUK</item>
+    <item>43040350 ALTICE_FR_PT</item>
+    <item>43040351 ALTICE_FR_PT</item>
+    <item>43040353 VODAFONE</item>
+    <item>43040356 VF_IE_UK</item>
+    <item>43040363 HK</item>
+    <item>43040364 HK</item>
+    <item>43040365 HK</item>
+    <item>43040366 HK</item>
+    <item>43040367 TW</item>
+    <item>43040368 TW</item>
+    <item>43040369 TW</item>
+    <item>43040370 TW</item>
+    <item>43040371 SEA</item>
+    <item>43040373 SEA</item>
+    <item>43040591 EEA</item>
+    <item>43040592 EEA</item>
+    <item>43040593 EEA</item>
+    <item>43040594 EEA</item>
+  </string-array>
+  <string-array name="XQ_CC44">
+    <item>43040729 Rakuten_JP</item>
+    <item>43040730 Rakuten_JP</item>
+    <item>43040731 Rakuten_JP</item>
+    <item>43040732 Rakuten_JP</item>
+    <item>43040733 MVNO_JP</item>
+    <item>43040734 MVNO_JP</item>
+    <item>43041229 MVNO_JP</item>
+    <item>43041230 MVNO_JP</item>
+  </string-array>
+  <string-array name="XQ_CC54">
+    <item>43040741 EU_UK</item>
+    <item>43040742 EU_UK</item>
+    <item>43040743 EU_UK</item>
+    <item>43040744 EU_UK</item>
+    <item>43040749 Orange_MCV</item>
+    <item>43040753 O2_UK</item>
+    <item>43040757 EE_UK</item>
+    <item>43040761 ALTICE_FR_PT</item>
+    <item>43040764 ALTICE_FR_PT</item>
+    <item>43040765 Vodafone_MCV</item>
+  </string-array>
+  <string-array name="XQ_CC72">
+    <item>43040777 HK</item>
+    <item>43040778 HK</item>
+    <item>43040779 HK</item>
+    <item>43040780 HK</item>
+    <item>43040781 TW</item>
+    <item>43040782 TW</item>
+    <item>43040783 TW</item>
+    <item>43040784 TW</item>
+    <item>43040785 SEA</item>
+    <item>43040788 SEA</item>
+  </string-array>
+  <string-array name="XQ_CQ44">
+    <item>43040914 Rakuten_JP</item>
+    <item>43040915 Rakuten_JP</item>
+    <item>43040918 JP</item>
+    <item>43040919 JP</item>
+    <item>43040921 JP</item>
+  </string-array>
+  <string-array name="XQ_CQ54">
+    <item>43040595 EU_UK</item>
+    <item>43040922 EU_UK</item>
+    <item>43040924 EU_UK</item>
+    <item>43040925 Orange_MCV</item>
+    <item>43040929 O2_UK</item>
+    <item>43040937 ALTICE_FR_PT</item>
+    <item>43040940 ALTICE_FR_PT</item>
+  </string-array>
+  <string-array name="XQ_CQ62">
+    <item>43040954 US</item>
+    <item>43040957 US</item>
+  </string-array>
+  <string-array name="XQ_CQ72">
+    <item>43040958 CN</item>
+    <item>43040959 CN</item>
+    <item>43040961 CN</item>
+    <item>43040962 HK</item>
+    <item>43040963 HK</item>
+    <item>43040965 HK</item>
+    <item>43040966 TW</item>
+    <item>43040967 TW</item>
+    <item>43040969 TW</item>
+    <item>43040970 SEA</item>
+  </string-array>
+  <string-array name="XQ_CT44">
+    <item>43040620 JP</item>
+    <item>43040621 JP</item>
+    <item>43040622 JP</item>
+    <item>43040623 JP</item>
+  </string-array>
+  <string-array name="XQ_CT54">
+    <item>43040629 EU_UK</item>
+    <item>43040630 EU_UK</item>
+    <item>43040631 EU_UK</item>
+    <item>43040638 O2_UK</item>
+    <item>43040641 EE_UK</item>
+    <item>43040644 ALTICE_FR_PT</item>
+  </string-array>
+  <string-array name="XQ_CT62">
+    <item>43040660 US</item>
+    <item>43040662 US</item>
+  </string-array>
+  <string-array name="XQ_CT72">
+    <item>43040575 CN</item>
+    <item>43040663 CN</item>
+    <item>43040664 CN</item>
+    <item>43040665 CN</item>
+    <item>43040666 CN</item>
+    <item>43040667 CN</item>
+    <item>43040671 HK</item>
+    <item>43040672 HK</item>
+    <item>43040673 HK</item>
+    <item>43040674 HK</item>
+    <item>43040675 HK</item>
+    <item>43040676 HK</item>
+    <item>43040677 HK</item>
+    <item>43040680 TW</item>
+    <item>43040681 TW</item>
+    <item>43040682 TW</item>
+    <item>43040683 TW</item>
+    <item>43040685 TW</item>
+    <item>43040686 TW</item>
+    <item>43040689 SEA</item>
+    <item>43040691 SEA</item>
+  </string-array>
+  <string-array name="XQ_DC44">
+    <item>43041126 Rakuten_JP</item>
+    <item>43041127 Rakuten_JP</item>
+    <item>43041128 Rakuten_JP</item>
+    <item>43041129 Rakuten_JP</item>
+    <item>43041130 MVNO_JP</item>
+    <item>43041131 MVNO_JP</item>
+    <item>43041290 JP</item>
+    <item>43041291 JP</item>
+    <item>43041292 JP</item>
+    <item>43041293 JP</item>
+  </string-array>
+  <string-array name="XQ_DC54">
+    <item>43041134 EU_UK</item>
+    <item>43041135 EU_UK</item>
+    <item>43041136 EU_UK</item>
+    <item>43041137 EU_UK</item>
+    <item>43041142 Orange_MCV</item>
+    <item>43041143 Orange_MCV</item>
+    <item>43041144 Orange_MCV</item>
+    <item>43041145 Orange_MCV</item>
+    <item>43041146 O2_UK</item>
+    <item>43041147 O2_UK</item>
+    <item>43041148 O2_UK</item>
+    <item>43041149 O2_UK</item>
+    <item>43041150 EE_UK</item>
+    <item>43041151 EE_UK</item>
+    <item>43041152 EE_UK</item>
+    <item>43041153 EE_UK</item>
+  </string-array>
+  <string-array name="XQ_DC72">
+    <item>43041171 HK</item>
+    <item>43041172 HK</item>
+    <item>43041173 HK</item>
+    <item>43041174 HK</item>
+    <item>43041175 TW</item>
+    <item>43041176 TW</item>
+    <item>43041177 TW</item>
+    <item>43041178 TW</item>
+    <item>43041179 SEA</item>
+    <item>43041181 SEA</item>
+  </string-array>
+  <string-array name="XQ_DE44">
+    <item>43041251 Rakuten_JP</item>
+    <item>43041252 Rakuten_JP</item>
+    <item>43041254 JP</item>
+    <item>43041255 JP</item>
+    <item>43041256 JP</item>
+  </string-array>
+  <string-array name="XQ_DE54">
+    <item>43041183 EU_UK</item>
+    <item>43041257 EU_UK</item>
+    <item>43041258 EU_UK</item>
+    <item>43041259 Orange_MCV</item>
+    <item>43041262 O2_UK</item>
+    <item>43041263 O2_UK</item>
+    <item>43041264 O2_UK</item>
+  </string-array>
+  <string-array name="XQ_DE72">
+    <item>43041278 CN</item>
+    <item>43041279 CN</item>
+    <item>43041280 CN</item>
+    <item>43041281 HK</item>
+    <item>43041282 HK</item>
+    <item>43041283 HK</item>
+    <item>43041284 TW</item>
+    <item>43041285 TW</item>
+    <item>43041286 TW</item>
+    <item>43041287 SEA</item>
+  </string-array>
+  <string-array name="XQ_DQ44">
+    <item>43041034 JP</item>
+    <item>43041035 JP</item>
+    <item>43041036 JP</item>
+  </string-array>
+  <string-array name="XQ_DQ54">
+    <item>43041038 EU_UK</item>
+    <item>43041039 EU_UK</item>
+    <item>43041040 EU_UK</item>
+    <item>43041047 O2_UK</item>
+    <item>43041048 O2_UK</item>
+    <item>43041049 O2_UK</item>
+    <item>43041050 EE_UK</item>
+    <item>43041051 EE_UK</item>
+    <item>43041052 EE_UK</item>
+  </string-array>
+  <string-array name="XQ_DQ62">
+    <item>43041076 US</item>
+    <item>43041077 US</item>
+    <item>43041078 US</item>
+  </string-array>
+  <string-array name="XQ_DQ72">
+    <item>43041011 CN</item>
+    <item>43041079 CN</item>
+    <item>43041080 CN</item>
+    <item>43041081 CN</item>
+    <item>43041082 CN</item>
+    <item>43041083 CN</item>
+    <item>43041085 HK</item>
+    <item>43041086 HK</item>
+    <item>43041087 HK</item>
+    <item>43041088 HK</item>
+    <item>43041089 HK</item>
+    <item>43041090 HK</item>
+    <item>43041092 TW</item>
+    <item>43041094 TW</item>
+    <item>43041095 TW</item>
+    <item>43041097 TW</item>
+    <item>43041099 SEA</item>
+    <item>43041101 SEA</item>
+  </string-array>
+  <string-array name="xposed_scope">
+    <item>com.sonyericsson.updatecenter</item>
+  </string-array>
+</resources>

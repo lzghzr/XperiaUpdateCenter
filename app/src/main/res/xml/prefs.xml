@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <PreferenceCategory android:title="@string/product_code">
+    <ListPreference
+        android:key="code"
+        android:title="@string/product_code" />
+  </PreferenceCategory>
+  <PreferenceCategory android:title="@string/custom_code">
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="custom"
+        android:summary="@string/custom_summary"
+        android:title="@string/custom" />
+    />
+    <EditTextPreference
+        android:dependency="custom"
+        android:key="custom_code"
+        android:title="@string/custom_code" />
+  </PreferenceCategory>
+</PreferenceScreen>
