@@ -1,250 +1,371 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="A002SO">
+    <item>43040119 SoftBank_JP</item>
+    <item>43040120 SoftBank_JP</item>
+    <item>43040121 SoftBank_JP</item>
+    <item>43040122 SoftBank_JP</item>
+    <item>43040125 SoftBank_JP</item>
+  </string-array>
   <string-array name="A101SO">
-    <item>43040229 JP</item>
-    <item>43040231 JP</item>
-    <item>43040232 JP</item>
+    <item>43040229 SoftBank_JP</item>
+    <item>43040231 SoftBank_JP</item>
+    <item>43040232 SoftBank_JP</item>
   </string-array>
   <string-array name="A102SO">
-    <item>43040314 JP</item>
-    <item>43040315 JP</item>
-    <item>43040316 JP</item>
-    <item>43040317 JP</item>
-    <item>43040320 JP</item>
+    <item>43040314 YMOBILE_JP</item>
+    <item>43040315 YMOBILE_JP</item>
+    <item>43040316 YMOBILE_JP</item>
+    <item>43040317 YMOBILE_JP</item>
+    <item>43040320 YMOBILE_JP</item>
   </string-array>
   <string-array name="A103SO">
-    <item>43040557 JP</item>
-    <item>43040559 JP</item>
-    <item>43040560 JP</item>
-    <item>43040561 JP</item>
-    <item>43040563 JP</item>
-    <item>43040564 JP</item>
+    <item>43040557 SoftBank_JP</item>
+    <item>43040559 SoftBank_JP</item>
+    <item>43040560 SoftBank_JP</item>
+    <item>43040561 SoftBank_JP</item>
+    <item>43040563 SoftBank_JP</item>
+    <item>43040564 SoftBank_JP</item>
   </string-array>
   <string-array name="A201SO">
-    <item>43040611 JP</item>
-    <item>43040614 JP</item>
-    <item>43040976 JP</item>
+    <item>43040611 SoftBank_JP</item>
+    <item>43040614 SoftBank_JP</item>
+    <item>43040976 SoftBank_JP</item>
   </string-array>
   <string-array name="A202SO">
-    <item>43040717 JP</item>
-    <item>43040718 JP</item>
-    <item>43040720 JP</item>
-    <item>43040721 JP</item>
-    <item>43040722 JP</item>
-    <item>43040724 JP</item>
+    <item>43040717 SoftBank_JP</item>
+    <item>43040718 SoftBank_JP</item>
+    <item>43040720 SoftBank_JP</item>
+    <item>43040721 SoftBank_JP</item>
+    <item>43040722 SoftBank_JP</item>
+    <item>43040724 SoftBank_JP</item>
   </string-array>
   <string-array name="A203SO">
-    <item>43040813 JP</item>
-    <item>43040815 JP</item>
-    <item>43040816 JP</item>
-    <item>43040817 JP</item>
-    <item>43040819 JP</item>
-    <item>43040820 JP</item>
+    <item>43040813 Y-Mobile_JP</item>
+    <item>43040815 Y-Mobile_JP</item>
+    <item>43040816 Y-Mobile_JP</item>
+    <item>43040817 Y-Mobile_JP</item>
+    <item>43040819 Y-Mobile_JP</item>
+    <item>43040820 Y-Mobile_JP</item>
   </string-array>
   <string-array name="A204SO">
-    <item>43040906 JP</item>
-    <item>43040907 JP</item>
-    <item>43040910 JP</item>
-    <item>43040911 JP</item>
+    <item>43040906 SoftBank_JP</item>
+    <item>43040907 SoftBank_JP</item>
+    <item>43040910 SoftBank_JP</item>
+    <item>43040911 SoftBank_JP</item>
   </string-array>
   <string-array name="A301SO">
-    <item>43041028 JP</item>
-    <item>43041029 JP</item>
-    <item>43041299 JP</item>
-    <item>43041300 JP</item>
-    <item>43041301 JP</item>
+    <item>43041028 SoftBank_JP</item>
+    <item>43041029 SoftBank_JP</item>
+    <item>43041299 SoftBank_JP</item>
+    <item>43041300 SoftBank_JP</item>
+    <item>43041301 SoftBank_JP</item>
   </string-array>
   <string-array name="A302SO">
-    <item>43041118 JP</item>
-    <item>43041119 JP</item>
-    <item>43041120 JP</item>
-    <item>43041121 JP</item>
-    <item>43041124 JP</item>
+    <item>43041118 SoftBank_JP</item>
+    <item>43041119 SoftBank_JP</item>
+    <item>43041120 SoftBank_JP</item>
+    <item>43041121 SoftBank_JP</item>
+    <item>43041124 SoftBank_JP</item>
+  </string-array>
+  <string-array name="A401SO">
+    <item>43041332 SoftBank_JP</item>
+    <item>43041334 SoftBank_JP</item>
+    <item>43041467 SoftBank_JP</item>
+  </string-array>
+  <string-array name="A402SO">
+    <item>43041408 SoftBank_JP</item>
+    <item>43041409 SoftBank_JP</item>
+    <item>43041410 SoftBank_JP</item>
+    <item>43041414 SoftBank_JP</item>
+  </string-array>
+  <string-array name="PDT_FP1">
+    <item>32857900 JP</item>
+    <item>32857901 JP</item>
+    <item>32857910 US</item>
+    <item>32857930 EU_UK</item>
   </string-array>
   <string-array name="SO_41B">
-    <item>43040375 JP</item>
-    <item>43040376 JP</item>
-    <item>43040377 JP</item>
-    <item>43040378 JP</item>
-    <item>43040379 JP</item>
-    <item>43040380 JP</item>
+    <item>43040375 NTT_DoCoMo_JP</item>
+    <item>43040376 NTT_DoCoMo_JP</item>
+    <item>43040377 NTT_DoCoMo_JP</item>
+    <item>43040378 NTT_DoCoMo_JP</item>
+    <item>43040379 NTT_DoCoMo_JP</item>
+    <item>43040380 NTT_DoCoMo_JP</item>
   </string-array>
   <string-array name="SO_51B">
-    <item>43040217 JP</item>
-    <item>43040218 JP</item>
-    <item>43040219 JP</item>
-    <item>43040220 JP</item>
-    <item>43040221 JP</item>
-    <item>43040222 JP</item>
+    <item>43040217 NTT_DoCoMo_JP</item>
+    <item>43040218 NTT_DoCoMo_JP</item>
+    <item>43040219 NTT_DoCoMo_JP</item>
+    <item>43040220 NTT_DoCoMo_JP</item>
+    <item>43040221 NTT_DoCoMo_JP</item>
+    <item>43040222 NTT_DoCoMo_JP</item>
   </string-array>
   <string-array name="SO_51C">
-    <item>43040596 JP</item>
-    <item>43040597 JP</item>
-    <item>43040598 JP</item>
-    <item>43040599 JP</item>
-    <item>43040600 JP</item>
-    <item>43040601 JP</item>
+    <item>43040596 NTT_DoCoMo_JP</item>
+    <item>43040597 NTT_DoCoMo_JP</item>
+    <item>43040598 NTT_DoCoMo_JP</item>
+    <item>43040599 NTT_DoCoMo_JP</item>
+    <item>43040600 NTT_DoCoMo_JP</item>
+    <item>43040601 NTT_DoCoMo_JP</item>
   </string-array>
   <string-array name="SO_51D">
-    <item>43041013 JP</item>
-    <item>43041014 JP</item>
-    <item>43041017 JP</item>
-    <item>43041018 JP</item>
+    <item>43041013 NTT_DoCoMo_JP</item>
+    <item>43041014 NTT_DoCoMo_JP</item>
+    <item>43041017 NTT_DoCoMo_JP</item>
+    <item>43041018 NTT_DoCoMo_JP</item>
+  </string-array>
+  <string-array name="SO_51E">
+    <item>43041322 NTT_DoCoMo_JP</item>
+    <item>43041323 NTT_DoCoMo_JP</item>
+    <item>43041325 NTT_DoCoMo_JP</item>
+    <item>43041326 NTT_DoCoMo_JP</item>
+  </string-array>
+  <string-array name="SO_52A">
+    <item>43040101 NTT_DoCoMo_JP</item>
+    <item>43040102 NTT_DoCoMo_JP</item>
+    <item>43040103 NTT_DoCoMo_JP</item>
+    <item>43040104 NTT_DoCoMo_JP</item>
+    <item>43040105 NTT_DoCoMo_JP</item>
+    <item>43040106 NTT_DoCoMo_JP</item>
+    <item>43040107 NTT_DoCoMo_JP</item>
+    <item>43040108 NTT_DoCoMo_JP</item>
+    <item>43040109 NTT_DoCoMo_JP</item>
+    <item>43040110 NTT_DoCoMo_JP</item>
   </string-array>
   <string-array name="SO_52B">
-    <item>43040298 JP</item>
-    <item>43040299 JP</item>
-    <item>43040300 JP</item>
-    <item>43040301 JP</item>
-    <item>43040302 JP</item>
-    <item>43040303 JP</item>
-    <item>43040304 JP</item>
-    <item>43040305 JP</item>
-    <item>43040441 JP</item>
-    <item>43040442 JP</item>
+    <item>43040298 NTT_DoCoMo_JP</item>
+    <item>43040299 NTT_DoCoMo_JP</item>
+    <item>43040300 NTT_DoCoMo_JP</item>
+    <item>43040301 NTT_DoCoMo_JP</item>
+    <item>43040302 NTT_DoCoMo_JP</item>
+    <item>43040303 NTT_DoCoMo_JP</item>
+    <item>43040304 NTT_DoCoMo_JP</item>
+    <item>43040305 NTT_DoCoMo_JP</item>
+    <item>43040441 NTT_DoCoMo_JP</item>
+    <item>43040442 NTT_DoCoMo_JP</item>
   </string-array>
   <string-array name="SO_52C">
-    <item>43040695 JP</item>
-    <item>43040696 JP</item>
-    <item>43040697 JP</item>
-    <item>43040698 JP</item>
-    <item>43040700 JP</item>
-    <item>43040701 JP</item>
-    <item>43040702 JP</item>
-    <item>43040703 JP</item>
+    <item>43040695 NTT_DoCoMo_JP</item>
+    <item>43040696 NTT_DoCoMo_JP</item>
+    <item>43040697 NTT_DoCoMo_JP</item>
+    <item>43040698 NTT_DoCoMo_JP</item>
+    <item>43040700 NTT_DoCoMo_JP</item>
+    <item>43040701 NTT_DoCoMo_JP</item>
+    <item>43040702 NTT_DoCoMo_JP</item>
+    <item>43040703 NTT_DoCoMo_JP</item>
   </string-array>
   <string-array name="SO_52D">
-    <item>43041102 JP</item>
-    <item>43041103 JP</item>
-    <item>43041104 JP</item>
-    <item>43041105 JP</item>
-    <item>43041106 JP</item>
-    <item>43041107 JP</item>
-    <item>43041108 JP</item>
-    <item>43041109 JP</item>
-
-    <item>43041320 JP_MLK</item>
+    <item>43041102 NTT_DoCoMo_JP</item>
+    <item>43041103 NTT_DoCoMo_JP</item>
+    <item>43041104 NTT_DoCoMo_JP</item>
+    <item>43041105 NTT_DoCoMo_JP</item>
+    <item>43041106 NTT_DoCoMo_JP</item>
+    <item>43041107 NTT_DoCoMo_JP</item>
+    <item>43041108 NTT_DoCoMo_JP</item>
+    <item>43041109 NTT_DoCoMo_JP</item>
+    <item>43041320 NTT_DoCoMo_JP_MLK</item>
+  </string-array>
+  <string-array name="SO_52E">
+    <item>43041392 NTT_DoCoMo_JP</item>
+    <item>43041393 NTT_DoCoMo_JP</item>
+    <item>43041394 NTT_DoCoMo_JP</item>
+    <item>43041396 NTT_DoCoMo_JP</item>
+    <item>43041397 NTT_DoCoMo_JP</item>
+    <item>43041398 NTT_DoCoMo_JP</item>
   </string-array>
   <string-array name="SO_53B">
-    <item>43040541 JP</item>
-    <item>43040542 JP</item>
-    <item>43040543 JP</item>
-    <item>43040544 JP</item>
-    <item>43040545 JP</item>
-    <item>43040546 JP</item>
-    <item>43040547 JP</item>
-    <item>43040548 JP</item>
+    <item>43040541 NTT_DoCoMo_JP</item>
+    <item>43040542 NTT_DoCoMo_JP</item>
+    <item>43040543 NTT_DoCoMo_JP</item>
+    <item>43040544 NTT_DoCoMo_JP</item>
+    <item>43040545 NTT_DoCoMo_JP</item>
+    <item>43040546 NTT_DoCoMo_JP</item>
+    <item>43040547 NTT_DoCoMo_JP</item>
+    <item>43040548 NTT_DoCoMo_JP</item>
   </string-array>
   <string-array name="SO_53C">
-    <item>43040789 JP</item>
-    <item>43040790 JP</item>
-    <item>43040791 JP</item>
-    <item>43040793 JP</item>
-    <item>43040794 JP</item>
-    <item>43040795 JP</item>
+    <item>43040789 NTT_DoCoMo_JP</item>
+    <item>43040790 NTT_DoCoMo_JP</item>
+    <item>43040791 NTT_DoCoMo_JP</item>
+    <item>43040793 NTT_DoCoMo_JP</item>
+    <item>43040794 NTT_DoCoMo_JP</item>
+    <item>43040795 NTT_DoCoMo_JP</item>
   </string-array>
   <string-array name="SO_53D">
-    <item>43041231 JP</item>
-    <item>43041232 JP</item>
-    <item>43041233 JP</item>
-    <item>43041235 JP</item>
-    <item>43041236 JP</item>
-    <item>43041237 JP</item>
+    <item>43041231 NTT_DoCoMo_JP</item>
+    <item>43041232 NTT_DoCoMo_JP</item>
+    <item>43041233 NTT_DoCoMo_JP</item>
+    <item>43041235 NTT_DoCoMo_JP</item>
+    <item>43041236 NTT_DoCoMo_JP</item>
+    <item>43041237 NTT_DoCoMo_JP</item>
   </string-array>
   <string-array name="SO_54C">
-    <item>43040890 JP</item>
-    <item>43040891 JP</item>
-    <item>43040893 JP</item>
-    <item>43040894 JP</item>
-    <item>43040895 JP</item>
-    <item>43040897 JP</item>
-    <item>43041005 JP</item>
-    <item>43041006 JP</item>
+    <item>43040890 NTT_DoCoMo_JP</item>
+    <item>43040891 NTT_DoCoMo_JP</item>
+    <item>43040893 NTT_DoCoMo_JP</item>
+    <item>43040894 NTT_DoCoMo_JP</item>
+    <item>43040895 NTT_DoCoMo_JP</item>
+    <item>43040897 NTT_DoCoMo_JP</item>
+    <item>43041005 NTT_DoCoMo_JP</item>
+    <item>43041006 NTT_DoCoMo_JP</item>
+  </string-array>
+  <string-array name="SOG02">
+    <item>43040111 KDDI_JP</item>
+    <item>43040112 KDDI_JP</item>
+    <item>43040113 KDDI_JP</item>
+    <item>43040114 KDDI_JP</item>
+    <item>43040115 KDDI_JP</item>
+    <item>43040116 KDDI_JP</item>
+    <item>43040117 KDDI_JP</item>
+    <item>43040118 KDDI_JP</item>
   </string-array>
   <string-array name="SOG03">
-    <item>43040223 JP</item>
-    <item>43040225 JP</item>
-    <item>43040226 JP</item>
+    <item>43040223 KDDI_JP</item>
+    <item>43040225 KDDI_JP</item>
+    <item>43040226 KDDI_JP</item>
   </string-array>
   <string-array name="SOG04">
-    <item>43040306 UQ</item>
-    <item>43040307 UQ</item>
-    <item>43040308 UQ</item>
-    <item>43040309 UQ</item>
-    <item>43040310 UQ</item>
-    <item>43040311 UQ</item>
-    <item>43040312 UQ</item>
-    <item>43040313 UQ</item>
-    <item>43040514 UQ</item>
-    <item>43040515 UQ</item>
-    <item>43040516 UQ</item>
-    <item>43040517 UQ</item>
-    <item>43040518 UQ</item>
-    <item>43040519 UQ</item>
-    <item>43040520 UQ</item>
-    <item>43040521 UQ</item>
+    <item>43040306 KDDI-UQ</item>
+    <item>43040307 KDDI-UQ</item>
+    <item>43040308 KDDI-UQ</item>
+    <item>43040309 KDDI-UQ</item>
+    <item>43040310 KDDI-UQ</item>
+    <item>43040311 KDDI-UQ</item>
+    <item>43040312 KDDI-UQ</item>
+    <item>43040313 KDDI-UQ</item>
+    <item>43040514 KDDI-UQ</item>
+    <item>43040515 KDDI-UQ</item>
+    <item>43040516 KDDI-UQ</item>
+    <item>43040517 KDDI-UQ</item>
+    <item>43040518 KDDI-UQ</item>
+    <item>43040519 KDDI-UQ</item>
+    <item>43040520 KDDI-UQ</item>
+    <item>43040521 KDDI-UQ</item>
   </string-array>
   <string-array name="SOG05">
-    <item>43040549 JP</item>
-    <item>43040550 JP</item>
-    <item>43040551 JP</item>
-    <item>43040552 JP</item>
-    <item>43040553 JP</item>
-    <item>43040554 JP</item>
-    <item>43040555 JP</item>
-    <item>43040556 JP</item>
+    <item>43040549 KDDI_JP</item>
+    <item>43040550 KDDI_JP</item>
+    <item>43040551 KDDI_JP</item>
+    <item>43040552 KDDI_JP</item>
+    <item>43040553 KDDI_JP</item>
+    <item>43040554 KDDI_JP</item>
+    <item>43040555 KDDI_JP</item>
+    <item>43040556 KDDI_JP</item>
   </string-array>
   <string-array name="SOG06">
-    <item>43040602 JP</item>
-    <item>43040603 JP</item>
-    <item>43040605 JP</item>
-    <item>43040606 JP</item>
+    <item>43040602 KDDI_JP</item>
+    <item>43040603 KDDI_JP</item>
+    <item>43040605 KDDI_JP</item>
+    <item>43040606 KDDI_JP</item>
   </string-array>
   <string-array name="SOG07">
-    <item>43040705 JP</item>
-    <item>43040706 JP</item>
-    <item>43040707 JP</item>
-    <item>43040708 JP</item>
-    <item>43040709 JP</item>
-    <item>43040710 JP</item>
-    <item>43040711 JP</item>
-    <item>43040712 JP</item>
+    <item>43040705 KDDI_JP</item>
+    <item>43040706 KDDI_JP</item>
+    <item>43040707 KDDI_JP</item>
+    <item>43040708 KDDI_JP</item>
+    <item>43040709 KDDI_JP</item>
+    <item>43040710 KDDI_JP</item>
+    <item>43040711 KDDI_JP</item>
+    <item>43040712 KDDI_JP</item>
   </string-array>
   <string-array name="SOG08">
-    <item>43040798 JP</item>
-    <item>43040800 JP</item>
-    <item>43040802 JP</item>
-    <item>43040804 JP</item>
+    <item>43040798 KDDI_JP</item>
+    <item>43040800 KDDI_JP</item>
+    <item>43040802 KDDI_JP</item>
+    <item>43040804 KDDI_JP</item>
   </string-array>
   <string-array name="SOG09">
-    <item>43040898 JP</item>
-    <item>43040899 JP</item>
-    <item>43040901 JP</item>
-    <item>43040902 JP</item>
-    <item>43040903 JP</item>
-    <item>43040905 JP</item>
+    <item>43040898 KDDI_JP</item>
+    <item>43040899 KDDI_JP</item>
+    <item>43040901 KDDI_JP</item>
+    <item>43040902 KDDI_JP</item>
+    <item>43040903 KDDI_JP</item>
+    <item>43040905 KDDI_JP</item>
   </string-array>
   <string-array name="SOG10">
-    <item>43041022 JP</item>
-    <item>43041023 JP</item>
-    <item>43041025 JP</item>
-    <item>43041026 JP</item>
+    <item>43041022 KDDI_JP</item>
+    <item>43041023 KDDI_JP</item>
+    <item>43041025 KDDI_JP</item>
+    <item>43041026 KDDI_JP</item>
   </string-array>
   <string-array name="SOG11">
-    <item>43041110 JP</item>
-    <item>43041111 JP</item>
-    <item>43041112 JP</item>
-    <item>43041114 JP</item>
-    <item>43041115 JP</item>
-    <item>43041116 JP</item>
+    <item>43041110 KDDI_JP</item>
+    <item>43041111 KDDI_JP</item>
+    <item>43041112 KDDI_JP</item>
+    <item>43041114 KDDI_JP</item>
+    <item>43041115 KDDI_JP</item>
+    <item>43041116 KDDI_JP</item>
   </string-array>
   <string-array name="SOG12">
-    <item>43041239 JP</item>
-    <item>43041240 JP</item>
-    <item>43041241 JP</item>
-    <item>43041242 JP</item>
-    <item>43041243 JP</item>
-    <item>43041244 JP</item>
+    <item>43041239 KDDI_JP</item>
+    <item>43041240 KDDI_JP</item>
+    <item>43041241 KDDI_JP</item>
+    <item>43041242 KDDI_JP</item>
+    <item>43041243 KDDI_JP</item>
+    <item>43041244 KDDI_JP</item>
+  </string-array>
+  <string-array name="SOG13">
+    <item>43041328 KDDI_JP</item>
+    <item>43041329 KDDI_JP</item>
+    <item>43041330 KDDI_JP</item>
+  </string-array>
+  <string-array name="SOG14">
+    <item>43041400 KDDI_JP</item>
+    <item>43041401 KDDI_JP</item>
+    <item>43041402 KDDI_JP</item>
+    <item>43041406 KDDI_JP</item>
+  </string-array>
+  <string-array name="XQ_AS42">
+    <item>43040127 JP</item>
+    <item>43040128 JP</item>
+    <item>43040129 JP</item>
+    <item>43040130 JP</item>
+  </string-array>
+  <string-array name="XQ_AS52">
+    <item>43040134 UK</item>
+    <item>43040136 UK</item>
+    <item>43040137 EEA</item>
+    <item>43040138 EEA</item>
+    <item>43040139 EEA</item>
+    <item>43040140 Orange_MCV</item>
+    <item>43040143 O2_UK</item>
+    <item>43040144 O2_UK</item>
+    <item>43040146 EE_UK</item>
+    <item>43040152 ALTICE_FR_PT</item>
+    <item>43040154 ALTICE_FR_PT</item>
+    <item>43040155 Vodafone</item>
+    <item>43040156 Vodafone</item>
+    <item>43040161 VF_LC_Net_Locked</item>
+    <item>43040162 VF_LC_Net_Locked</item>
+    <item>43040195 RU</item>
+    <item>43040196 RU</item>
+    <item>43040214 EEA</item>
+    <item>43040215 EEA</item>
+    <item>43040216 EEA</item>
+    <item>43040446 EEA</item>
+    <item>43040590 EEA</item>
+  </string-array>
+  <string-array name="XQ_AS62">
+    <item>43040175 US</item>
+    <item>43040177 US</item>
+  </string-array>
+  <string-array name="XQ_AS72">
+    <item>43040179 CN</item>
+    <item>43040180 CN</item>
+    <item>43040181 CN</item>
+    <item>43040182 CN</item>
+    <item>43040183 HK</item>
+    <item>43040185 HK</item>
+    <item>43040186 HK</item>
+    <item>43040187 TW</item>
+    <item>43040188 TW</item>
+    <item>43040189 TW</item>
+    <item>43040190 TW</item>
+    <item>43040191 SEA</item>
+    <item>43040192 SEA</item>
+    <item>43040193 SEA</item>
+    <item>43040194 SEA</item>
   </string-array>
   <string-array name="XQ_BC42">
     <item>43040238 JP</item>
@@ -302,7 +423,7 @@
     <item>43040531 O2_UK</item>
   </string-array>
   <string-array name="XQ_BE62">
-    <item>43040536 _US</item>
+    <item>43040536 US</item>
   </string-array>
   <string-array name="XQ_BE72">
     <item>43040535 RU</item>
@@ -612,6 +733,80 @@
     <item>43041097 TW</item>
     <item>43041099 SEA</item>
     <item>43041101 SEA</item>
+  </string-array>
+  <string-array name="XQ_EC44">
+    <item>43041336 JP</item>
+    <item>43041337 JP</item>
+    <item>43041338 JP</item>
+    <item>43041339 JP</item>
+    <item>43041509 JP</item>
+    <item>43041510 JP</item>
+    <item>43041511 JP</item>
+    <item>43041512 JP</item>
+    <item>43041513 JP</item>
+    <item>43041514 JP</item>
+  </string-array>
+  <string-array name="XQ_EC54">
+    <item>43041340 EU_UK</item>
+    <item>43041341 EU_UK</item>
+    <item>43041342 EU_UK</item>
+    <item>43041346 O2_UK</item>
+    <item>43041347 O2_UK</item>
+    <item>43041348 O2_UK</item>
+    <item>43041349 EE_UK</item>
+    <item>43041350 EE_UK</item>
+    <item>43041351 EE_UK</item>
+    <item>43041515 EU_UK</item>
+  </string-array>
+  <string-array name="XQ_EC72">
+    <item>43041372 HK</item>
+    <item>43041373 HK</item>
+    <item>43041374 HK</item>
+    <item>43041375 HK</item>
+    <item>43041376 HK</item>
+    <item>43041377 HK</item>
+    <item>43041378 HK</item>
+    <item>43041379 HK</item>
+    <item>43041380 TW</item>
+    <item>43041381 TW</item>
+    <item>43041382 TW</item>
+    <item>43041383 TW</item>
+    <item>43041384 TW</item>
+    <item>43041385 TW</item>
+    <item>43041386 TW</item>
+    <item>43041387 TW</item>
+    <item>43041388 SEA</item>
+    <item>43041389 SEA</item>
+    <item>43041390 SEA</item>
+  </string-array>
+  <string-array name="XQ_ES44">
+    <item>43041416 Rakuten_Open_Device</item>
+    <item>43041417 Rakuten_Open_Device</item>
+    <item>43041418 Rakuten_Open_Device</item>
+    <item>43041424 JP</item>
+    <item>43041425 JP</item>
+    <item>43041426 JP</item>
+  </string-array>
+  <string-array name="XQ_ES54">
+    <item>43041321 EU_UK</item>
+    <item>43041428 EU_UK</item>
+    <item>43041429 EU_UK</item>
+    <item>43041435 O2_UK</item>
+    <item>43041436 O2_UK</item>
+    <item>43041437 O2_UK</item>
+    <item>43041439 EE_UK</item>
+    <item>43041440 EE_UK</item>
+    <item>43041441 EE_UK</item>
+  </string-array>
+  <string-array name="XQ_ES72">
+    <item>43041455 HK</item>
+    <item>43041456 HK</item>
+    <item>43041457 HK</item>
+    <item>43041459 TW</item>
+    <item>43041460 TW</item>
+    <item>43041461 TW</item>
+    <item>43041463 SEA</item>
+    <item>43041465 SEA</item>
   </string-array>
   <string-array name="xposed_scope">
     <item>com.sonyericsson.updatecenter</item>
