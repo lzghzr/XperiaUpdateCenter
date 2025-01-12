@@ -1,6 +1,12 @@
 package io.github.lzghzr.xperiaupdatecenter;
 
+import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
+import android.view.Menu;
+import android.view.MenuItem;
+
+import androidx.annotation.NonNull;
 
 import de.robv.android.xposed.IXposedHookLoadPackage;
 import de.robv.android.xposed.XC_MethodHook;
@@ -47,6 +53,31 @@ public class MainHook implements IXposedHookLoadPackage {
                 param.setResult(code);
               }
               XposedBridge.log(appName + " getSonyProductCode after: " + param.getResult());
+            }
+          });
+      XposedHelpers.findAndHookMethod(
+          "com.sonyericsson.updatecenter.ui.activity.AbstractDownloadActivity",
+          lpparam.classLoader,
+          "onCreateOptionsMenu",
+          Menu.class,
+          new XC_MethodHook() {
+            @Override
+            protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+              Activity activity = (Activity) param.thisObject;
+              Menu menu = (Menu) param.args[0];
+              MenuItem item = menu.add("Product Code");
+              item.setOnMenuItemClickListener(new MenuItem.OnMenuItemClickListener() {
+                @Override
+                public boolean onMenuItemClick(@NonNull MenuItem item) {
+                  Intent intent = new Intent(Intent.ACTION_MAIN);
+                  intent.setClassName(
+                      "io.github.lzghzr.xperiaupdatecenter",
+                      "io.github.lzghzr.xperiaupdatecenter.SettingsActivity"
+                  );
+                  activity.startActivity(intent);
+                  return true;
+                }
+              });
             }
           });
     }
