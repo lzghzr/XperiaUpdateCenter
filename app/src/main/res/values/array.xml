@@ -79,6 +79,11 @@
     <item>43041410 SoftBank_JP</item>
     <item>43041414 SoftBank_JP</item>
   </string-array>
+  <string-array name="A501SO">
+    <item>43041531 SoftBank_JP</item>
+    <item>43041532 SoftBank_JP</item>
+    <item>43041534 SoftBank_JP</item>
+  </string-array>
   <string-array name="PDT_FP1">
     <item>32857900 JP</item>
     <item>32857901 JP</item>
@@ -120,6 +125,12 @@
     <item>43041323 NTT_DoCoMo_JP</item>
     <item>43041325 NTT_DoCoMo_JP</item>
     <item>43041326 NTT_DoCoMo_JP</item>
+  </string-array>
+  <string-array name="SO_51F">
+    <item>43041519 NTT_DoCoMo_JP</item>
+    <item>43041520 NTT_DoCoMo_JP</item>
+    <item>43041521 NTT_DoCoMo_JP</item>
+    <item>43041522 NTT_DoCoMo_JP</item>
   </string-array>
   <string-array name="SO_52A">
     <item>43040101 NTT_DoCoMo_JP</item>
@@ -315,6 +326,11 @@
     <item>43041401 KDDI_JP</item>
     <item>43041402 KDDI_JP</item>
     <item>43041406 KDDI_JP</item>
+  </string-array>
+  <string-array name="SOG15">
+    <item>43041525 KDDI_JP</item>
+    <item>43041526 KDDI_JP</item>
+    <item>43041527 KDDI_JP</item>
   </string-array>
   <string-array name="XQ_AS42">
     <item>43040127 JP</item>
@@ -807,6 +823,36 @@
     <item>43041461 TW</item>
     <item>43041463 SEA</item>
     <item>43041465 SEA</item>
+  </string-array>
+  <string-array name="XQ_FS44">
+    <item>43041537 JP</item>
+    <item>43041538 JP</item>
+    <item>43041539 JP</item>
+    <item>43041540 JP</item>
+    <item>43041541 JP</item>
+    <item>43041542 JP</item>
+    <item>43041543 JP</item>
+    <item>43041544 JP</item>
+    <item>43041545 JP</item>
+  </string-array>
+  <string-array name="XQ_FS54">
+    <item>43041546 EU_UK</item>
+    <item>43041547 EU_UK</item>
+    <item>43041548 EU_UK</item>
+  </string-array>
+  <string-array name="XQ_FS72">
+    <item>43041550 HK</item>
+    <item>43041551 HK</item>
+    <item>43041552 HK</item>
+    <item>43041553 HK</item>
+    <item>43041554 HK</item>
+    <item>43041555 HK</item>
+    <item>43041556 TW</item>
+    <item>43041557 TW</item>
+    <item>43041558 TW</item>
+    <item>43041559 TW</item>
+    <item>43041560 TW</item>
+    <item>43041561 TW</item>
   </string-array>
   <string-array name="xposed_scope">
     <item>com.sonyericsson.updatecenter</item>
